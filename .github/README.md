@@ -3,7 +3,7 @@
     ──「 𝗚𝗝𝟱𝟭𝟲 𝗩𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 」──  
    </h2>  
  <p align="center">   
-<img src="https://te.legra.ph/file/cb2763a4fd9af49b26cb0.jpg">   
+<img src="https://te.legra.ph/file/544ffbb6532ab48738625.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
  <a href="https://github.com/MrProgrammer72/GJ516VCBOT/stargazers"><img src="https://img.shields.io/github/stars/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/MrProgrammer72/GJ516VCBOT/network/members"> <img src="https://img.shields.io/github/forks/MrProgrammer72/GJ516VCBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
@@ -59,7 +59,7 @@
 
  ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀 
 
- <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrProgrammer72/GJ516VCBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
+ <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Sainaangel/GJ516VCBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-orange?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p> 
 
  The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable). 
 
@@ -76,7 +76,7 @@
  Curl -sL https://deb.nodesource.com/setup_16.x | bash - 
  sudo apt-get install -y nodejs 
  npm i -g npm 
- git clone https://github.com/MrProgrammer72/GJ516VCBOT # Clone your repo. 
+ git clone https://te.legra.ph/file/db7c6b18567b5e81165ad.mp4 # Clone your repo. 
  cd GJ516VCBOT
  pip3 install -U -r requirements.txt 
  cp example.env .env #Use vim to edit ENVs 
@@ -97,10 +97,10 @@
  </h3> 
 
   <p align="center"> 
- <a href="https://t.me/GJ516_DISCUSS_GROUP"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://t.me/Friendship_Zone_Group"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
  <p align="center"> 
- <a href="https://telegram.me/myworldGJ516"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ <a href="https://telegram.me/Yes_Suppose_I_Am"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
  </p> 
 ━━━━━━━━━━━━━━━━━━━━
     <h3 align="center"> 
